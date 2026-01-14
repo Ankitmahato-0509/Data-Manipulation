@@ -31,7 +31,7 @@ Whether you’re new to Python or already familiar with the basics, this guide w
 
 ***
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 Make sure **Python** is installed on your system.  
 Then install **NumPy** and **Pandas** using pip:
