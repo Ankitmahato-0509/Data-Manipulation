@@ -20,7 +20,7 @@ This repository focuses on:
 
 ### 1. Numpy.ipynb
 
-[View on GitHub](https://github.com/Ankitmahato-0509/Libraries-in-Python/blob/main/Numpy/Numpy.ipynb)
+[View on GitHub](https://github.com/Ankitmahato-0509/Data-Manipulation/blob/main/Numpy/Numpy.ipynb)
 
 * Comprehensive NumPy tutorial and practice notebook
 * Covers:
@@ -40,7 +40,7 @@ This repository focuses on:
 
 ### 2. Airport-Cabs.ipynb
 
-[View on GitHub](https://github.com/Ankitmahato-0509/Libraries-in-Python/blob/main/Numpy/Airport%20Cabs.ipynb)
+[View on GitHub](https://github.com/Ankitmahato-0509/Data-Manipulation/blob/main/Numpy/Airport%20Cabs.ipynb)
 
 * Mini NumPy project analyzing NYC taxi trip data from `nyc_taxis.csv`
 * Highlights:
@@ -58,7 +58,7 @@ This repository focuses on:
 
 ### 3. Ice-cream-sales-analysis-temperature-and-weather.ipynb
 
-[View on GitHub](https://github.com/Ankitmahato-0509/Libraries-in-Python/blob/main/Numpy/Ice%20cream%20sales%20analysis%20-%20temperature%20and%20weather.ipynb)
+[View on GitHub](https://github.com/Ankitmahato-0509/Data-Manipulation/blob/main/Numpy/Ice%20cream%20sales%20analysis%20-%20temperature%20and%20weather.ipynb)
 
 * NumPy and pandas analysis of ice-cream sales vs temperature, price, tourists and rain
 * Highlights:
