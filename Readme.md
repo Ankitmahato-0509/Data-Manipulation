@@ -7,7 +7,7 @@ Whether you’re new to Python or already familiar with the basics, this guide w
 
 ***
 
-## 📚 Table of Contents
+## Table of Contents
 1. [Installation Guide](#installation-guide)  
 2. [Introduction to Data Manipulation](#introduction-to-data-manipulation)  
 3. [Introduction to NumPy](#introduction-to-numpy)  
