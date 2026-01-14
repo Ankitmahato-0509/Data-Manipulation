@@ -26,7 +26,7 @@ This repository focuses on:
 
 ### Main Notebook
 
-#### `Pandas.ipynb`
+#### `Pandas.ipynb` [view](https://github.com/Ankitmahato-0509/Data-Manipulation/blob/main/Pandas/Pandas.ipynb)
 
 A complete **practice-oriented pandas notebook** covering:
 
